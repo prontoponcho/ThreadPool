@@ -1,5 +1,5 @@
 # ThreadPool
-###Server-side code for managing a dynamically resizing pool of threads for parallel client queries.
+###Server-side code managing a dynamically resizing pool of threads for handling parallel client queries.
 ####Contents:
 <ul>
 <li>report.pdf describes the class interactions with UML and program execution with screenshots.
